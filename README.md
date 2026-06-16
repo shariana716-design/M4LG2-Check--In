@@ -1,6 +1,4 @@
-[m4lg2_check_in_board.html](https://github.com/user-attachments/files/29004591/m4lg2_check_in_board.html)
-# M4LG2-Check--In<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
